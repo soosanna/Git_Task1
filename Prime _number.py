@@ -1,4 +1,4 @@
-num = 11
+num = 10
 # Negative numbers, 0 and 1 are not primes
 if num > 1:
   
